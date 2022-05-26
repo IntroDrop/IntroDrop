@@ -1,4 +1,4 @@
-# Hey, IntroDrop here! 
+# Hey
 
 <img width="50%" align="right" alt="lucifer1004's github stats" src="https://github-readme-stats.vercel.app/api?username=IntroDrop&show_icons=true">
 
