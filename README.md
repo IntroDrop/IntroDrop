@@ -6,7 +6,7 @@
 - C++/Python/Java for competitive programming.
 - Java/Golang for Web application
 - Intersted in DataBase, Distributed Systems, Cloud Native, etc.
-- Learning Prometheus、Kubernetes、ElasticSearch, etc.
+- Learning React、GraphDatabase, etc.
 
 ---
 
